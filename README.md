@@ -19,7 +19,9 @@ The popular penetration testing framework cSploit has a feature that allows you 
 
 ## Payloads:
 - MakeTextBig.js: convert all p tags to h1 tags
-- ShowVictimThemselves: request to ask the victim for camera access and once they accept, show them their own camera feed
+- ShowVictimThemselves.js: request to ask the victim for camera access and once they accept, show them their own camera feed
+- ReplaceLinks.js: does literally what you think it does
+- ReplaceImages.js: does literally what you think it does
 - OpenTabs.js: doesn't work
  
 Created by Agneya Tharun
